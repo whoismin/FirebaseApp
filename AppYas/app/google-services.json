@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39411153762",
+    "project_id": "firestoreapp-bf1f1",
+    "storage_bucket": "firestoreapp-bf1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39411153762:android:4bf00f8be9ff98fbb74a3b",
+        "android_client_info": {
+          "package_name": "com.example.AppYas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3HAFG3-4uTz1MKa0NVNbybxvIpad2Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
